@@ -12,6 +12,7 @@ for n in range(1, 10000):
         r = r + r[-2:]
     else:
         summ = r.count('1') + r.count('2')*2
+        #summ = sum(map(int, r))
         r = r + convert(summ, 3)
     if int(r, 3) % 2 == 0 and int(r, 3) > 220:
         ans.append(int(r, 3))
