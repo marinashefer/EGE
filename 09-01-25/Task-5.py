@@ -8,7 +8,7 @@ def convert(num, sys):
 ans = []
 for n in range(10, 10000):
     r = convert(n, 3)
-    if r.count('2') > r.count('1'):
+    if (r.count('2') + r.count('0')) > r.count('1'):
         r = '22' + r
     else:
         r = '11' + r
