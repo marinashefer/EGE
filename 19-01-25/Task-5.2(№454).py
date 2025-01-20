@@ -1,7 +1,7 @@
 from itertools import product, permutations
 
 def f(a, b, c, d):
-    return ((not(b <= a)) and (c <= d)) or (a and b) or (c and (not d))
+    return ((not(b <= a)) and (c <= d)) or (a and b) and (c and (not d))
 
 for a1, a2, a3, a4, a5, a6, a7, a8, a9 in product([0, 1], repeat=9):
     table = [(a1, 0, 0, 0), (a2, a3, a4, 0), (a5, a6, 0, 0), (a7, 0, a8, a9)]
@@ -10,3 +10,13 @@ for a1, a2, a3, a4, a5, a6, a7, a8, a9 in product([0, 1], repeat=9):
             u = [f(**dict(zip(p, t))) for t in table] == [1, 1, 1, 1]
             if u:
                 print(*p)
+
+# print('a b c d')
+#
+# for a in range(0, 2):
+#     for b in range(0, 2):
+#         for c in range(0, 2):
+#             for d in range(0, 2):
+#                 f = ((not(b <= a)) and (c <= d)) or (a and b) and (c and (not d))
+#                 if f == 1:
+#                     print(a, b, c, d, f)
