@@ -6,4 +6,5 @@ for val in set(permutations('МАКАКА', 6)):
     if ('АА' not in val) and ('КК' not in val):
         cnt += 1
 
+
 print(cnt)

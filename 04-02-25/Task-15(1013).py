@@ -7,6 +7,7 @@ def f(x):
     return (not A) or (not P) and Q
 
 ans = []
+
 line = [x/10 for x in range(20*10, 60*10)]
 
 for A1, A2 in combinations(line, 2):

@@ -6,6 +6,7 @@ def f(x):
     A = A1 <= x <= A2
     return (A <= P) or Q
 
+
 ans = []
 line = [x/10 for x in range(40*10, 60*10)] # [30, 43, 44, 49, 53, 60]
 

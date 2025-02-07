@@ -1,5 +1,6 @@
 from itertools import combinations
 
+
 def f(x):
     P = 15 <= x <= 33
     Q = 35 <= x <= 48

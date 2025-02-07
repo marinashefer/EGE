@@ -6,6 +6,7 @@ def convert(num, sys):
         num //= sys
     return res [::-1]
 
+
 ans = []
 for n in range(1, 10000):
     r = convert(n, 12)

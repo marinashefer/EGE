@@ -3,6 +3,7 @@ from itertools import product
 
 alph = digits +ascii_uppercase
 
+
 for val in product(alph[:20], repeat=5):
     val = ''.join(val)
     if val[0] != '0':

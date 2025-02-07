@@ -1,5 +1,7 @@
 from itertools import permutations, product
 
+
+
 count = 0
 for val in set(permutations('КИДАЛА', 5)):
     val = ''.join(val)
