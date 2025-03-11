@@ -13,15 +13,22 @@ def f(num):
             res |= {i, num//i}
     res = sorted(set(res))
 
+    if len(res) <= 1:
+        return 0
+
+    m = sum(res)
+
+    if is_prime(m % 100000):
+        return m
+
+count = 0
 for i in range(1273547, 10**20):
-    deliteli = [f(i)]
-    print(deliteli)
-    if is_prime(num):
-        m = 0
-    else:
-        m = sum(i for i in deliteli)
-    if m % 100000 == is_prime(num):
-        print(num, m)
+    if f(i):
+        print(i, f(i))
+        count += 1
+        if count == 5:
+            break
+
 
 
 
