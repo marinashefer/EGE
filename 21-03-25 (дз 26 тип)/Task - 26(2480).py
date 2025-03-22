@@ -11,4 +11,3 @@ for i in range(0, len(roads) - 1):
         roads[i] = [roads[i][0], max(roads[i+1][1], roads[i][1])]
 
 print(len(ans), max(ans))
-print(ans)
