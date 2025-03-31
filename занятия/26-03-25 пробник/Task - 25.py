@@ -5,7 +5,7 @@ def f(num):
             res |= {i, num//i}
     res = sorted(res)
 
-    if len(res) <= 2:
+    if len(res) < 2:
         m = 0
     else:
         m = max(res) - min(res)

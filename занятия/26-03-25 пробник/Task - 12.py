@@ -1,6 +1,6 @@
 ans = []
 
-for n in range(3, 1000):
+for n in range(4, 1000):
     st = '1' + '2'*n
     while '12' in st or '32' in st or '22' in st:
         st = st.replace('12', '22', 1)
