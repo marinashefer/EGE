@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="19-21 задача на две кучи">
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/17_12735.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/17_12735.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 12(10714).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 12(10714).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 17(12735).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 17(12735).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 25(8696).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 25(8696).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 5(18119).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 5(18119).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-02-25/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-03-25 (23 тип)/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18-02-25 (25 тип)/17-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-03-25/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-02-25 (26 тип)/24-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-02-25/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-03-25/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26-03-25/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28-02-25/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/29-03-25/24.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +30,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -50,117 +68,136 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Task - 1.executor": "Run",
-    "Python.Task - 12(10714).executor": "Run",
-    "Python.Task - 12.executor": "Run",
-    "Python.Task - 14(18122).executor": "Run",
-    "Python.Task - 14.executor": "Run",
-    "Python.Task - 15(14350).executor": "Run",
-    "Python.Task - 15(4286).executor": "Run",
-    "Python.Task - 15(8503).executor": "Run",
-    "Python.Task - 15(8596).executor": "Run",
-    "Python.Task - 15.executor": "Run",
-    "Python.Task - 16(14339).executor": "Run",
-    "Python.Task - 16(19248).executor": "Run",
-    "Python.Task - 16(19709).executor": "Run",
-    "Python.Task - 16(20196).executor": "Run",
-    "Python.Task - 17(12735).executor": "Run",
-    "Python.Task - 17.executor": "Run",
-    "Python.Task - 19-21(1863).executor": "Run",
-    "Python.Task - 19-21(4599).executor": "Run",
-    "Python.Task - 19-21(4624).executor": "Run",
-    "Python.Task - 19-21.executor": "Run",
-    "Python.Task - 2.executor": "Run",
-    "Python.Task - 23(10104).executor": "Run",
-    "Python.Task - 23(1137).executor": "Run",
-    "Python.Task - 23(13972).executor": "Run",
-    "Python.Task - 23(17684).executor": "Run",
-    "Python.Task - 23(3374).executor": "Run",
-    "Python.Task - 23(4709).executor": "Run",
-    "Python.Task - 23(5926).executor": "Run",
-    "Python.Task - 25(12255).executor": "Run",
-    "Python.Task - 25(14442).executor": "Run",
-    "Python.Task - 25(19775).executor": "Run",
-    "Python.Task - 25(2943).executor": "Run",
-    "Python.Task - 25(3025).executor": "Run",
-    "Python.Task - 25(6637).executor": "Run",
-    "Python.Task - 25(8696).executor": "Run",
-    "Python.Task - 25.2(12255).executor": "Run",
-    "Python.Task - 25.2(6637).executor": "Run",
-    "Python.Task - 25.executor": "Run",
-    "Python.Task - 26(2480).executor": "Run",
-    "Python.Task - 5(18119).executor": "Run",
-    "Python.Task - 5.executor": "Run",
-    "Python.Task - 6.executor": "Run",
-    "Python.Task - 8.executor": "Run",
-    "Python.Task-1(№16248).executor": "Run",
-    "Python.Task-1(№19233).executor": "Run",
-    "Python.Task-1.executor": "Run",
-    "Python.Task-12.executor": "Run",
-    "Python.Task-14-18122.executor": "Run",
-    "Python.Task-14.executor": "Run",
-    "Python.Task-15(1276).executor": "Run",
-    "Python.Task-15(16833).executor": "Run",
-    "Python.Task-15(18266).executor": "Run",
-    "Python.Task-15(18595).executor": "Run",
-    "Python.Task-15(19247).executor": "Run",
-    "Python.Task-15(4327).executor": "Run",
-    "Python.Task-15(5437).executor": "Run",
-    "Python.Task-15(747).executor": "Run",
-    "Python.Task-15(7846).executor": "Run",
-    "Python.Task-15(8677).executor": "Run",
-    "Python.Task-15(№1859).executor": "Run",
-    "Python.Task-15(№4595).executor": "Run",
-    "Python.Task-15(№4620).executor": "Run",
-    "Python.Task-15(№9784).executor": "Run",
-    "Python.Task-15(№9838).executor": "Run",
-    "Python.Task-15.executor": "Run",
-    "Python.Task-17.executor": "Run",
-    "Python.Task-2(14651).executor": "Run",
-    "Python.Task-2(№17665).executor": "Run",
-    "Python.Task-2.1(19234).executor": "Run",
-    "Python.Task-2.1(№17621).executor": "Run",
-    "Python.Task-2.1(№17665).executor": "Run",
-    "Python.Task-2.1(№18576).executor": "Run",
-    "Python.Task-2.2(№17621).executor": "Run",
-    "Python.Task-2.2(№17665).executor": "Run",
-    "Python.Task-2.2(№18576).executor": "Run",
-    "Python.Task-2.2(№19234).executor": "Run",
-    "Python.Task-2.executor": "Run",
-    "Python.Task-4.2(№78).executor": "Run",
-    "Python.Task-5-19237.executor": "Run",
-    "Python.Task-5.2(№454).executor": "Run",
-    "Python.Task-5.executor": "Run",
-    "Python.Task-6.2(№816).executor": "Run",
-    "Python.Task-6.executor": "Run",
-    "Python.Task-7.2(№960).executor": "Run",
-    "Python.Task-8(5553).executor": "Run",
-    "Python.Task-8(9363).executor": "Run",
-    "Python.Task-8(№11292).executor": "Run",
-    "Python.Task-8.executor": "Run",
-    "Python.Task15.4 (18175).executor": "Run",
-    "Python.Task15.5 (1320).executor": "Run",
-    "Python.Task17.1 (19249).executor": "Run",
-    "Python.Task17.2 (17873).executor": "Run",
-    "Python.Task17.3 (4705).executor": "Run",
-    "Python.Task5.8 (19237).executor": "Run",
-    "Python.Task8.6 (19753).executor": "Run",
-    "Python.Task8.7 (1927).executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/занятия/28-03-25"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task - 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 12(10714).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 14(18122).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 14(6847).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 15(14350).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 15(4286).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 15(8503).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 15(8596).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(14339).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(18123).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(1860).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(19248).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(19709).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(20196).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(4596).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(4621).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16(9747).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 17(12735).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 17(6791).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21(1863).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21(4599).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21(4624).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21(6065).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21(7850).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21(8684).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21(9750).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 19-21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(10104).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(1137).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(13099).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(13972).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(17684).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(1865).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(19253).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(3374).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(4709).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 23(5926).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(12255).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(14442).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(19775).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(2943).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(3025).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(4276).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(5912).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(6637).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(8696).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25(9076).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25.2(12255).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25.2(6637).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 26(2480).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 5(18119).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task - 8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1(№16248).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1(№19233).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-18122.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(1276).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(16833).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(18266).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(18595).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(19247).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(4327).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(5437).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(747).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(7846).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(8677).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(№1859).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(№4595).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(№4620).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(№9784).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15(№9838).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2(14651).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2(№17665).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.1(19234).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.1(№17621).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.1(№17665).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.1(№18576).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.2(№17621).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.2(№17665).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.2(№18576).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.2(№19234).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-4.2(№78).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-19237.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5.2(№454).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6.2(№816).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-7.2(№960).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8(5553).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8(9363).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8(№11292).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task15.4 (18175).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task15.5 (1320).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task17.1 (19249).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task17.2 (17873).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task17.3 (4705).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task5.8 (19237).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task8.6 (19753).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task8.7 (1927).executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Марина/Desktop/EGE/домашние задания/14-04-25 (вариант)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\14-04-25 (вариант)" />
       <recent name="C:\Users\Марина\Desktop\EGE\занятия\28-03-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\21-03-25 (дз 26 тип)" />
       <recent name="C:\Users\Марина\Desktop\EGE\21-02-25 дз пробник" />
       <recent name="C:\Users\Марина\Desktop\EGE\13-02-25 дз" />
-      <recent name="C:\Users\Марина\Desktop\EGE\06-02-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марина\Desktop\EGE\занятия" />
@@ -386,7 +423,39 @@
       <option name="project" value="LOCAL" />
       <updated>1743462126862</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="19-21 тип">
+      <option name="closed" value="true" />
+      <created>1743462615910</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1743462615910</updated>
+    </task>
+    <task id="LOCAL-00027" summary="дз">
+      <option name="closed" value="true" />
+      <created>1744660430722</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1744660430722</updated>
+    </task>
+    <task id="LOCAL-00028" summary="дз пробник">
+      <option name="closed" value="true" />
+      <created>1744826034918</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1744826034918</updated>
+    </task>
+    <task id="LOCAL-00029" summary=".">
+      <option name="closed" value="true" />
+      <created>1744826111477</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1744826111477</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -398,7 +467,6 @@
     <MESSAGE value="15 тип вручную" />
     <MESSAGE value="15 тип" />
     <MESSAGE value="15 тип отрезки дз" />
-    <MESSAGE value="дз пробник" />
     <MESSAGE value="дз 25" />
     <MESSAGE value="пробник" />
     <MESSAGE value="23 - габелла" />
@@ -406,10 +474,13 @@
     <MESSAGE value="организация папок))" />
     <MESSAGE value="файлы" />
     <MESSAGE value="25 тип" />
-    <MESSAGE value="дз" />
     <MESSAGE value="занятие за 28 марта" />
     <MESSAGE value="19-21 задача на две кучи" />
-    <option name="LAST_COMMIT_MESSAGE" value="19-21 задача на две кучи" />
+    <MESSAGE value="19-21 тип" />
+    <MESSAGE value="дз" />
+    <MESSAGE value="дз пробник" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
