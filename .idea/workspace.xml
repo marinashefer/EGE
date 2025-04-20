@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="19-21 задача на две кучи">
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="24 тип(регулярками)">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/17_12735.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/17_12735.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 12(10714).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 12(10714).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 17(12735).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 17(12735).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 25(8696).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 25(8696).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/28-03-25/Task - 5(18119).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/28-03-25 (19-21 тип)/Task - 5(18119).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +76,12 @@
     "Python.Task - 23(3374).executor": "Run",
     "Python.Task - 23(4709).executor": "Run",
     "Python.Task - 23(5926).executor": "Run",
+    "Python.Task - 24(15339).executor": "Run",
+    "Python.Task - 24(16269).executor": "Run",
+    "Python.Task - 24(18147).executor": "Run",
+    "Python.Task - 24(18284).executor": "Run",
+    "Python.Task - 24(18597).executor": "Run",
+    "Python.Task - 24(21421).executor": "Run",
     "Python.Task - 25(12255).executor": "Run",
     "Python.Task - 25(14442).executor": "Run",
     "Python.Task - 25(19775).executor": "Run",
@@ -151,16 +153,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/занятия/28-03-25"
+    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/24 тип/19-04-25"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\Desktop\EGE\24 тип\19-04-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\занятия\28-03-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\21-03-25 (дз 26 тип)" />
       <recent name="C:\Users\Марина\Desktop\EGE\21-02-25 дз пробник" />
       <recent name="C:\Users\Марина\Desktop\EGE\13-02-25 дз" />
-      <recent name="C:\Users\Марина\Desktop\EGE\06-02-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марина\Desktop\EGE\занятия" />
@@ -386,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743462126862</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="24 тип(регулярками)">
+      <option name="closed" value="true" />
+      <created>1745077478186</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1745077478186</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -409,7 +419,8 @@
     <MESSAGE value="дз" />
     <MESSAGE value="занятие за 28 марта" />
     <MESSAGE value="19-21 задача на две кучи" />
-    <option name="LAST_COMMIT_MESSAGE" value="19-21 задача на две кучи" />
+    <MESSAGE value="24 тип(регулярками)" />
+    <option name="LAST_COMMIT_MESSAGE" value="24 тип(регулярками)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
