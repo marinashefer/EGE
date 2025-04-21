@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="24 тип(регулярками)">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 113(14355).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 113(14355).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(11784).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(11784).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(14648).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(14648).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(17710).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(17710).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(18487).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(18487).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(20807).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(20807).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 19-21(20907).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 19-21(20907).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +54,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Task - 1(913).executor": "Run",
     "Python.Task - 1.executor": "Run",
     "Python.Task - 12(10714).executor": "Run",
     "Python.Task - 12.executor": "Run",
+    "Python.Task - 13(10151).executor": "Run",
+    "Python.Task - 13(14648).executor": "Run",
     "Python.Task - 14(18122).executor": "Run",
     "Python.Task - 14.executor": "Run",
     "Python.Task - 15(14350).executor": "Run",
@@ -68,6 +77,7 @@
     "Python.Task - 19-21(4599).executor": "Run",
     "Python.Task - 19-21(4624).executor": "Run",
     "Python.Task - 19-21.executor": "Run",
+    "Python.Task - 2(5483).executor": "Run",
     "Python.Task - 2.executor": "Run",
     "Python.Task - 23(10104).executor": "Run",
     "Python.Task - 23(1137).executor": "Run",
@@ -94,7 +104,9 @@
     "Python.Task - 25.executor": "Run",
     "Python.Task - 26(2480).executor": "Run",
     "Python.Task - 5(18119).executor": "Run",
+    "Python.Task - 5(6588).executor": "Run",
     "Python.Task - 5.executor": "Run",
+    "Python.Task - 6(4752).executor": "Run",
     "Python.Task - 6.executor": "Run",
     "Python.Task - 8.executor": "Run",
     "Python.Task-1(№16248).executor": "Run",
@@ -165,11 +177,11 @@
       <recent name="C:\Users\Марина\Desktop\EGE\13-02-25 дз" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\Desktop\EGE\24 тип" />
       <recent name="C:\Users\Марина\Desktop\EGE\занятия" />
       <recent name="C:\Users\Марина\Desktop\EGE\" />
       <recent name="C:\Users\Марина\Desktop\EGE\\" />
       <recent name="C:\Users\Марина\Desktop\EGE\занятия\21-03-25" />
-      <recent name="C:\Users\Марина\Desktop\EGE\15 тип" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -396,7 +408,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745077478186</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="24 тип(регулярками)">
+      <option name="closed" value="true" />
+      <created>1745150678539</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1745150678539</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
