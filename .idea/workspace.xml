@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="24 тип(регулярками)">
+      <change afterPath="$PROJECT_DIR$/занятия/29-03-25/24.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 113(14355).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 113(14355).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(11784).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(11784).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(14648).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(14648).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(17710).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(17710).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(18487).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(18487).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(20807).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(20807).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 19-21(20907).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 19-21(20907).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +49,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Task - 1(913).executor": "Run",
+    "Python.Task - 1(9148).executor": "Run",
     "Python.Task - 1.executor": "Run",
     "Python.Task - 12(10714).executor": "Run",
+    "Python.Task - 12(5219).executor": "Run",
     "Python.Task - 12.executor": "Run",
     "Python.Task - 13(10151).executor": "Run",
     "Python.Task - 13(14648).executor": "Run",
@@ -77,6 +73,7 @@
     "Python.Task - 19-21(4599).executor": "Run",
     "Python.Task - 19-21(4624).executor": "Run",
     "Python.Task - 19-21.executor": "Run",
+    "Python.Task - 2(5057).executor": "Run",
     "Python.Task - 2(5483).executor": "Run",
     "Python.Task - 2.executor": "Run",
     "Python.Task - 23(10104).executor": "Run",
@@ -104,10 +101,13 @@
     "Python.Task - 25.executor": "Run",
     "Python.Task - 26(2480).executor": "Run",
     "Python.Task - 5(18119).executor": "Run",
+    "Python.Task - 5(5412).executor": "Run",
     "Python.Task - 5(6588).executor": "Run",
     "Python.Task - 5.executor": "Run",
+    "Python.Task - 6(20183).executor": "Run",
     "Python.Task - 6(4752).executor": "Run",
     "Python.Task - 6.executor": "Run",
+    "Python.Task - 8(19480).executor": "Run",
     "Python.Task - 8.executor": "Run",
     "Python.Task-1(№16248).executor": "Run",
     "Python.Task-1(№19233).executor": "Run",
