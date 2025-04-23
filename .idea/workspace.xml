@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="13 тип" />
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="24 тип(регулярками)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 113(14355).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 113(14355).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(11784).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(11784).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(14648).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(14648).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(17710).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(17710).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(18487).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(18487).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 13(20807).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 13(20807).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/15-04-25/Task - 19-21(20907).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/15-04-25 (13 тип)/Task - 19-21(20907).py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +59,6 @@
     "Python.Task - 12(10714).executor": "Run",
     "Python.Task - 12.executor": "Run",
     "Python.Task - 13(10151).executor": "Run",
-    "Python.Task - 13(10161).executor": "Run",
-    "Python.Task - 13(10162).executor": "Run",
-    "Python.Task - 13(11791).executor": "Run",
     "Python.Task - 13(14648).executor": "Run",
     "Python.Task - 14(18122).executor": "Run",
     "Python.Task - 14.executor": "Run",
@@ -410,23 +416,7 @@
       <option name="project" value="LOCAL" />
       <updated>1745150678539</updated>
     </task>
-    <task id="LOCAL-00028" summary="дз вариант(1 часть)">
-      <option name="closed" value="true" />
-      <created>1745273558008</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1745273558008</updated>
-    </task>
-    <task id="LOCAL-00029" summary="13 тип">
-      <option name="closed" value="true" />
-      <created>1745273569781</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1745273569781</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -450,9 +440,7 @@
     <MESSAGE value="занятие за 28 марта" />
     <MESSAGE value="19-21 задача на две кучи" />
     <MESSAGE value="24 тип(регулярками)" />
-    <MESSAGE value="дз вариант(1 часть)" />
-    <MESSAGE value="13 тип" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 тип" />
+    <option name="LAST_COMMIT_MESSAGE" value="24 тип(регулярками)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
