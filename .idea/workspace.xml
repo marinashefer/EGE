@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="24 тип(регулярками)">
-      <change afterPath="$PROJECT_DIR$/занятия/29-03-25/24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/22-04-25/Task - 5(5412).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/22-04-25/Task - 5(5412).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;marinashefer&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/marinashefer/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;7b5bbcd2-db04-41c3-a22c-0667fcae283c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/marinashefer/EGE.git",
+    "accountId": "75ab3693-be26-47fb-af0b-dcad4323d627"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -109,6 +109,7 @@
     "Python.Task - 6.executor": "Run",
     "Python.Task - 8(19480).executor": "Run",
     "Python.Task - 8.executor": "Run",
+    "Python.Task -8.executor": "Run",
     "Python.Task-1(№16248).executor": "Run",
     "Python.Task-1(№19233).executor": "Run",
     "Python.Task-1.executor": "Run",
@@ -187,7 +188,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
