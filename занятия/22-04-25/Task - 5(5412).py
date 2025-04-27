@@ -11,7 +11,7 @@ def convert(num, sys):
 ans = []
 for n in range(1, 1000):
     r = convert(n, 16)
-    if r.count('B') % 2 == 0:
+    if r.count('b') % 2 == 0:
         r = '1' + r
     else:
         r = r + '1'
