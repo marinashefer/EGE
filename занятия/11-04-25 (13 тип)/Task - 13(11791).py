@@ -7,5 +7,5 @@ for mask in range(16, 25):
         if i[:16].count('0') > i[16:].count('0'):
             break
     else:
-        print(mask)
+        print(net.netmask)
         break
