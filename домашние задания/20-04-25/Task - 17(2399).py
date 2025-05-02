@@ -3,7 +3,12 @@ from string import digits, ascii_lowercase
 with open ('17_2399.txt') as file:
     data = [int(i) for i in file]
 
-sum_35 = sum(data) // 35
+summ = 0
+for i in data:
+    if i % 35 == 0:
+        summ += sum([int(j) for j in str(i)])
+
+sum_35 = summ
 
 def convert(num, sys):
     alph = digits + ascii_lowercase[:16]
@@ -21,10 +26,10 @@ for i in range(len(data)-1):
     u2 = num2 > sum_35
     if u1 + u2 == 1:
         if u1:
-            if convert(num2, 16)[:-2] == 'ef':
+            if convert(num2, 16)[-2:] == 'ef':
                 ans.append(num1 + num2)
         if u2:
-            if convert(num1, 16)[:-2] == 'ef':
+            if convert(num1, 16)[-2:] == 'ef':
                 ans.append(num1 + num2)
 
 print(len(ans), min(ans))

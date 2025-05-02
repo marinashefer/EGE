@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="разбор пробника">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/домашние задания/20-04-25/Task - 17(2399).py" beforeDir="false" afterPath="$PROJECT_DIR$/домашние задания/20-04-25/Task - 17(2399).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/домашние задания/20-04-25/Task - 23(19710).py" beforeDir="false" afterPath="$PROJECT_DIR$/домашние задания/20-04-25/Task - 23(19710).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +31,12 @@
     &quot;assignee&quot;: &quot;marinashefer&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/marinashefer/EGE.git&quot;,
-    &quot;accountId&quot;: &quot;75ab3693-be26-47fb-af0b-dcad4323d627&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/marinashefer/EGE.git",
+    "accountId": "7b5bbcd2-db04-41c3-a22c-0667fcae283c"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -68,6 +71,7 @@
     "Python.Task - 16(19709).executor": "Run",
     "Python.Task - 16(20196).executor": "Run",
     "Python.Task - 17(12735).executor": "Run",
+    "Python.Task - 17(2399).executor": "Run",
     "Python.Task - 17.executor": "Run",
     "Python.Task - 19-21(1863).executor": "Run",
     "Python.Task - 19-21(4599).executor": "Run",
@@ -80,6 +84,7 @@
     "Python.Task - 23(1137).executor": "Run",
     "Python.Task - 23(13972).executor": "Run",
     "Python.Task - 23(17684).executor": "Run",
+    "Python.Task - 23(19710).executor": "Run",
     "Python.Task - 23(3374).executor": "Run",
     "Python.Task - 23(4709).executor": "Run",
     "Python.Task - 23(5926).executor": "Run",
@@ -88,6 +93,7 @@
     "Python.Task - 24(18147).executor": "Run",
     "Python.Task - 24(18284).executor": "Run",
     "Python.Task - 24(18597).executor": "Run",
+    "Python.Task - 24(19717).executor": "Run",
     "Python.Task - 24(21421).executor": "Run",
     "Python.Task - 24(8058).executor": "Run",
     "Python.Task - 24(8060).executor": "Run",
@@ -104,6 +110,8 @@
     "Python.Task - 25.2(6637).executor": "Run",
     "Python.Task - 25.executor": "Run",
     "Python.Task - 26(2480).executor": "Run",
+    "Python.Task - 26(2651).executor": "Run",
+    "Python.Task - 26.1.executor": "Run",
     "Python.Task - 5(18119).executor": "Run",
     "Python.Task - 5(5412).executor": "Run",
     "Python.Task - 5(6588).executor": "Run",
@@ -170,16 +178,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MShefer/Desktop/EGE/24 тип/26-04-25"
+    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/домашние задания/20-04-25"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\20-04-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\24 тип\26-04-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\24 тип\19-04-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\занятия\28-03-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\21-03-25 (дз 26 тип)" />
-      <recent name="C:\Users\Марина\Desktop\EGE\21-02-25 дз пробник" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марина\Desktop\EGE\24 тип" />
@@ -192,7 +200,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
