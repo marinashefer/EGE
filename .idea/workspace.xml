@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="дз">
-      <change beforePath="$PROJECT_DIR$/занятия/29-04-25 (27 тип)/Task - 13(13885).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/29-04-25 (27 тип)/Task - 13(13885).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;marinashefer&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/marinashefer/EGE.git",
-    "accountId": "7b5bbcd2-db04-41c3-a22c-0667fcae283c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marinashefer/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;7b5bbcd2-db04-41c3-a22c-0667fcae283c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -103,15 +103,22 @@
     "Python.Task - 25(19775).executor": "Run",
     "Python.Task - 25(2943).executor": "Run",
     "Python.Task - 25(3025).executor": "Run",
+    "Python.Task - 25(5735).executor": "Run",
     "Python.Task - 25(6637).executor": "Run",
     "Python.Task - 25(8696).executor": "Run",
+    "Python.Task - 25(9170).executor": "Run",
     "Python.Task - 25.2(12255).executor": "Run",
     "Python.Task - 25.2(6637).executor": "Run",
     "Python.Task - 25.executor": "Run",
     "Python.Task - 26(2480).executor": "Run",
     "Python.Task - 26(2651).executor": "Run",
     "Python.Task - 26.1.executor": "Run",
+    "Python.Task - 27(17882.2).executor": "Run",
+    "Python.Task - 27(20816).executor": "Run",
+    "Python.Task - 27(21425).executor": "Run",
+    "Python.Task - 27.2(21425).executor": "Run",
     "Python.Task - 5(18119).executor": "Run",
+    "Python.Task - 5(20883).executor": "Run",
     "Python.Task - 5(5412).executor": "Run",
     "Python.Task - 5(6588).executor": "Run",
     "Python.Task - 5.executor": "Run",
@@ -177,16 +184,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/домашние задания/20-04-25"
+    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/домашние задания/03-05-25"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\03-05-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\20-04-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\24 тип\26-04-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\24 тип\19-04-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\занятия\28-03-25" />
-      <recent name="C:\Users\Марина\Desktop\EGE\21-03-25 (дз 26 тип)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марина\Desktop\EGE\24 тип" />
