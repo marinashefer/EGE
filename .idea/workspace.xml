@@ -117,9 +117,11 @@
     "Python.Task - 26(2651).executor": "Run",
     "Python.Task - 26.1.executor": "Run",
     "Python.Task - 27(17882.2).executor": "Run",
+    "Python.Task - 27(18623).executor": "Run",
     "Python.Task - 27(19747).executor": "Run",
     "Python.Task - 27(20816).executor": "Run",
     "Python.Task - 27(21425).executor": "Run",
+    "Python.Task - 27.2(19747).executor": "Run",
     "Python.Task - 27.2(21425).executor": "Run",
     "Python.Task - 5(18119).executor": "Run",
     "Python.Task - 5(20883).executor": "Run",
@@ -457,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746174718650</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="дз">
+      <option name="closed" value="true" />
+      <created>1746483236534</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1746483236534</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
