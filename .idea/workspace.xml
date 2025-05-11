@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="ws">
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="дз">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,6 @@
     "Python.Task - 13(13885).executor": "Run",
     "Python.Task - 13(14648).executor": "Run",
     "Python.Task - 14(18122).executor": "Run",
-    "Python.Task - 14(18580).executor": "Run",
     "Python.Task - 14.executor": "Run",
     "Python.Task - 15(14350).executor": "Run",
     "Python.Task - 15(4278).executor": "Run",
@@ -122,7 +121,6 @@
     "Python.Task - 27(19747).executor": "Run",
     "Python.Task - 27(20816).executor": "Run",
     "Python.Task - 27(21425).executor": "Run",
-    "Python.Task - 27.2(18623).executor": "Run",
     "Python.Task - 27.2(19747).executor": "Run",
     "Python.Task - 27.2(21425).executor": "Run",
     "Python.Task - 5(18119).executor": "Run",
@@ -191,11 +189,6 @@
     "Python.Task5.8 (19237).executor": "Run",
     "Python.Task8.6 (19753).executor": "Run",
     "Python.Task8.7 (1927).executor": "Run",
-    "Python.task - 1.executor": "Run",
-    "Python.task - 13.executor": "Run",
-    "Python.task - 14.executor": "Run",
-    "Python.task - 2.executor": "Run",
-    "Python.task - 5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -474,23 +467,7 @@
       <option name="project" value="LOCAL" />
       <updated>1746483236534</updated>
     </task>
-    <task id="LOCAL-00031" summary="дз 27 тип">
-      <option name="closed" value="true" />
-      <created>1746515187052</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1746515187052</updated>
-    </task>
-    <task id="LOCAL-00032" summary="ws">
-      <option name="closed" value="true" />
-      <created>1746610581919</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1746610581919</updated>
-    </task>
-    <option name="localTasksCounter" value="33" />
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -515,9 +492,7 @@
     <MESSAGE value="24 тип(регулярками)" />
     <MESSAGE value="разбор пробника" />
     <MESSAGE value="дз" />
-    <MESSAGE value="дз 27 тип" />
-    <MESSAGE value="ws" />
-    <option name="LAST_COMMIT_MESSAGE" value="ws" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
