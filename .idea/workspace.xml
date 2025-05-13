@@ -6,6 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="27 тип">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.17.A_19566.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.17.A_19566.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.17.B_19566.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.17.B_19566.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.19.A_20497.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.19.A_20497.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.19.B_20497.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.19.B_20497.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.21.A_19715.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.21.A_19715.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.21.B_19715.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.21.B_19715.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.3.A_19891.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.3.A_19891.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/27.3.B_19891.txt" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/27.3.B_19891.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/Task - 27(19566).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/Task - 27(19566).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/Task - 27(19715).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/Task - 27(19715).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/Task - 27(19891).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/Task - 27(19891).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/Task - 27(20497).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/Task - 27(20497).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/Task - 27.2(19566).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/Task - 27.2(19566).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/Task - 27.2(19715).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/Task - 27.2(19715).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/занятия/06-05-25/Task - 27.2(20497).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/06-05-25 (27 тип)/Task - 27.2(20497).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +30,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -191,41 +205,24 @@
     "Python.task - 16(21711).executor": "Run",
     "Python.task - 19-21(18268).executor": "Run",
     "Python.task - 23(18267).executor": "Run",
-    "Python.task - 24(1866).executor": "Run",
-    "Python.task - 24(1975).executor": "Run",
-    "Python.task - 24(2942).executor": "Run",
-    "Python.task - 24(3228).executor": "Run",
-    "Python.task - 24(3584).executor": "Run",
-    "Python.task - 24(4602).executor": "Run",
-    "Python.task - 24(4682).executor": "Run",
-    "Python.task - 24(4710).executor": "Run",
-    "Python.task - 24(6054).executor": "Run",
-    "Python.task - 24(6636).executor": "Run",
-    "Python.task - 24(7600).executor": "Run",
-    "Python.task - 24(7624).executor": "Run",
-    "Python.task - 24(8510).executor": "Run",
-    "Python.task - 24(9845).executor": "Run",
     "Python.task - 25(6276).executor": "Run",
-    "Python.task - 27(18056).executor": "Run",
     "Python.task - 27(19567).executor": "Run",
     "Python.task - 27(21599).executor": "Run",
-    "Python.task - 27(4627).executor": "Run",
-    "Python.task - 27.2(18056).executor": "Run",
     "Python.task - 27.2(19567).executor": "Run",
     "Python.task - 27.2(21599).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MShefer/Desktop/EGE/24 тип/13-05-25"
+    "last_opened_file_path": "C:/Users/MShefer/Desktop/EGE/занятия/09-05-25"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MShefer\Desktop\EGE\24 тип\13-05-25" />
-      <recent name="C:\Users\MShefer\Desktop\EGE\занятия\13-05-25" />
-      <recent name="C:\Users\MShefer\Desktop\EGE\занятия\11-04-25 (13 тип)" />
       <recent name="C:\Users\MShefer\Desktop\EGE\занятия\09-05-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\занятия\06-05-25" />
+      <recent name="C:\Users\MShefer\Desktop\EGE\занятия\02-05-25" />
+      <recent name="C:\Users\MShefer\Desktop\EGE\занятия\29-04-25 (27 тип)" />
+      <recent name="C:\Users\MShefer\Desktop\EGE\занятия\29-04-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марина\Desktop\EGE\24 тип" />
@@ -491,15 +488,7 @@
       <option name="project" value="LOCAL" />
       <updated>1746546225509</updated>
     </task>
-    <task id="LOCAL-00031" summary="27 тип">
-      <option name="closed" value="true" />
-      <created>1746805832125</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1746805832125</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
