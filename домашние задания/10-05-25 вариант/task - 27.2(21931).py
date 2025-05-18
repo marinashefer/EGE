@@ -9,19 +9,24 @@ def centroid(cluster):
         distance.append([sum_dist, dot])
     return max(distance)[1]
 
-with open ('27_A_21931.txt') as file:
+with open ('27_B_21931.txt') as file:
     cluster1 = []
     cluster2 = []
+    cluster3 = []
     for i in file:
         x, y = (map(float, i.split()))
-        if y > 14:
+        if y > 17 and x < 17:
             cluster1.append((x, y))
-        if y < 14:
+        if y > 14 and x > 17:
             cluster2.append((x, y))
+        if y < 17:
+            cluster3.append((x, y))
+
 
 center1 = centroid(cluster1)
 center2 = centroid(cluster2)
+center3 = centroid(cluster3)
 
-print(len(cluster1), len(cluster2))
+print(len(cluster1), len(cluster2), len(cluster3))
 
-print(int(10000*(center1[0])), int(10000*(center2[1])))
+print(int(10000*(center1[0])), int(10000*(center3[1])))
