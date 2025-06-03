@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="26 тип">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="1-5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -558,11 +556,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748620669844</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="1-5">
+      <option name="closed" value="true" />
+      <created>1748873594639</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1748873594639</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="я решаю пятое задание" />
     <MESSAGE value="крылов 1 вар.2025" />
     <MESSAGE value="домашка на 21.01" />
@@ -587,7 +592,8 @@
     <MESSAGE value="27 тип" />
     <MESSAGE value="24 тип" />
     <MESSAGE value="26 тип" />
-    <option name="LAST_COMMIT_MESSAGE" value="26 тип" />
+    <MESSAGE value="1-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
