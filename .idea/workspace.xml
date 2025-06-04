@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="досрок" />
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="6-10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +29,12 @@
     &quot;assignee&quot;: &quot;marinashefer&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/marinashefer/EGE.git",
-    "accountId": "7b5bbcd2-db04-41c3-a22c-0667fcae283c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marinashefer/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;75ab3693-be26-47fb-af0b-dcad4323d627&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -186,17 +188,46 @@
     "Python.Task5.8 (19237).executor": "Run",
     "Python.Task8.6 (19753).executor": "Run",
     "Python.Task8.7 (1927).executor": "Run",
+    "Python.task -  15(17556).executor": "Run",
+    "Python.task - 1(16367).executor": "Run",
+    "Python.task - 1(17620).executor": "Run",
+    "Python.task - 1(20801).executor": "Run",
+    "Python.task - 1(21400).executor": "Run",
     "Python.task - 1.executor": "Run",
-    "Python.task - 13.executor": "Run",
+    "Python.task - 12(17553).executor": "Run",
+    "Python.task - 12(9781).executor": "Run",
+    "Python.task - 12(9835).executor": "Run",
+    "Python.task - 13(14650).executor": "Run",
+    "Python.task - 13(17632).executor": "Run",
+    "Python.task - 13(17676).executor": "Run",
+    "Python.task - 13(18487).executor": "Run",
+    "Python.task - 13(18955).executor": "Run",
+    "Python.task - 13(20807).executor": "Run",
+    "Python.task - 13(21708).executor": "Run",
+    "Python.task - 13(21745).executor": "Run",
+    "Python.task - 13(21899).executor": "Run",
+    "Python.task - 14(10716).executor": "Run",
+    "Python.task - 14(17633).executor": "Run",
     "Python.task - 14(18167).executor": "Run",
+    "Python.task - 14(4619).executor": "Run",
+    "Python.task - 14(9837).executor": "Run",
     "Python.task - 15(12469).executor": "Run",
+    "Python.task - 15(17528).executor": "Run",
+    "Python.task - 15(20905).executor": "Run",
+    "Python.task - 15(20961).executor": "Run",
+    "Python.task - 15(4595).executor": "Run",
     "Python.task - 15(6827).executor": "Run",
     "Python.task - 15(9162).executor": "Run",
+    "Python.task - 15(9838).executor": "Run",
     "Python.task - 16(21711).executor": "Run",
     "Python.task - 19-21(18268).executor": "Run",
     "Python.task - 19-21(9072).executor": "Run",
-    "Python.task - 19-21.executor": "Run",
-    "Python.task - 2.executor": "Run",
+    "Python.task - 2(12671).executor": "Run",
+    "Python.task - 2(17543).executor": "Run",
+    "Python.task - 2(17621).executor": "Run",
+    "Python.task - 2(20802).executor": "Run",
+    "Python.task - 2(21401).executor": "Run",
+    "Python.task - 2(9771).executor": "Run",
     "Python.task - 23(18267).executor": "Run",
     "Python.task - 24(17535).executor": "Run",
     "Python.task - 24(17563).executor": "Run",
@@ -218,25 +249,46 @@
     "Python.task - 26(4629).executor": "Run",
     "Python.task - 26(4660).executor": "Run",
     "Python.task - 26(4684).executor": "Run",
-    "Python.task - 26.executor": "Run",
+    "Python.task - 26(4712).executor": "Run",
+    "Python.task - 26(6031).executor": "Run",
+    "Python.task - 26(6056).executor": "Run",
+    "Python.task - 26(6641).executor": "Run",
+    "Python.task - 26(6759).executor": "Run",
+    "Python.task - 26(7602).executor": "Run",
+    "Python.task - 26(7626).executor": "Run",
     "Python.task - 27(19567).executor": "Run",
     "Python.task - 27(21599).executor": "Run",
     "Python.task - 27.2(19567).executor": "Run",
     "Python.task - 27.2(21599).executor": "Run",
+    "Python.task - 5(17518).executor": "Run",
+    "Python.task - 5(17624).executor": "Run",
+    "Python.task - 5(17859).executor": "Run",
+    "Python.task - 5(21404).executor": "Run",
+    "Python.task - 5(4585).executor": "Run",
     "Python.task - 5(4869).executor": "Run",
+    "Python.task - 5(9829).executor": "Run",
     "Python.task - 5.executor": "Run",
-    "Python.task - 6.executor": "Run",
-    "Python.task - 8.executor": "Run",
+    "Python.task - 6(17547).executor": "Run",
+    "Python.task - 6(17625).executor": "Run",
+    "Python.task - 6(20897).executor": "Run",
+    "Python.task - 6(21405).executor": "Run",
+    "Python.task - 6(9829).executor": "Run",
+    "Python.task - 8(17521).executor": "Run",
+    "Python.task - 8(17549).executor": "Run",
+    "Python.task - 8(17627).executor": "Run",
+    "Python.task - 8(20898).executor": "Run",
+    "Python.task -13(14355).executor": "Run",
     "Python.task- 17(5882).executor": "Run",
+    "Python.task-1(4606).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/домашние задания/01-06-25 (досрок)"
+    "last_opened_file_path": "C:/Users/MShefer/Desktop/EGE/26 тип/31-05-25"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\01-06-25 (досрок)" />
+      <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\31-05-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\30-05-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\27-05-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\занятия\20-05-25" />
@@ -253,7 +305,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -530,20 +582,50 @@
       <option name="project" value="LOCAL" />
       <updated>1748360701593</updated>
     </task>
-    <task id="LOCAL-00034" summary="досрок">
+    <task id="LOCAL-00034" summary="26 тип">
       <option name="closed" value="true" />
-      <created>1748860139011</created>
+      <created>1748620669844</created>
       <option name="number" value="00034" />
       <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1748860139011</updated>
+      <updated>1748620669844</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="1-5">
+      <option name="closed" value="true" />
+      <created>1748873594639</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1748873594639</updated>
+    </task>
+    <task id="LOCAL-00036" summary="26">
+      <option name="closed" value="true" />
+      <created>1748952250515</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1748952250515</updated>
+    </task>
+    <task id="LOCAL-00037" summary="6-10">
+      <option name="closed" value="true" />
+      <created>1748959591628</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1748959591628</updated>
+    </task>
+    <task id="LOCAL-00038" summary="6-10">
+      <option name="closed" value="true" />
+      <created>1749038303037</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1749038303037</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="я решаю пятое задание" />
-    <MESSAGE value="крылов 1 вар.2025" />
     <MESSAGE value="домашка на 21.01" />
     <MESSAGE value="не могу понять как последние две задачи сделать" />
     <MESSAGE value="15 тип вручную" />
@@ -566,8 +648,10 @@
     <MESSAGE value="27 тип" />
     <MESSAGE value="24 тип" />
     <MESSAGE value="26 тип" />
-    <MESSAGE value="досрок" />
-    <option name="LAST_COMMIT_MESSAGE" value="досрок" />
+    <MESSAGE value="1-5" />
+    <MESSAGE value="26" />
+    <MESSAGE value="6-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="6-10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
