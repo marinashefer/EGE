@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="6-10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="11-15" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,6 +186,7 @@
     "Python.Task5.8 (19237).executor": "Run",
     "Python.Task8.6 (19753).executor": "Run",
     "Python.Task8.7 (1927).executor": "Run",
+    "Python.taask - 15(20809).executor": "Run",
     "Python.task -  15(17556).executor": "Run",
     "Python.task - 1(16367).executor": "Run",
     "Python.task - 1(17620).executor": "Run",
@@ -622,11 +621,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749038303037</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="11-15">
+      <option name="closed" value="true" />
+      <created>1749047399062</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1749047399062</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="домашка на 21.01" />
     <MESSAGE value="не могу понять как последние две задачи сделать" />
     <MESSAGE value="15 тип вручную" />
     <MESSAGE value="15 тип" />
@@ -651,7 +657,8 @@
     <MESSAGE value="1-5" />
     <MESSAGE value="26" />
     <MESSAGE value="6-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="6-10" />
+    <MESSAGE value="11-15" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
