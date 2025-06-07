@@ -1,5 +1,3 @@
-from tkinter.ttk import LabeledScale
-
 with open ('26_7602.txt') as file:
     k = int(file.readline())
     n = int(file.readline())
