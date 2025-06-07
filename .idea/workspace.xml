@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="6-10">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="16-26">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/05-06-25/task - 25(20814).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/05-06-25/task - 25(20814).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +29,12 @@
     &quot;assignee&quot;: &quot;marinashefer&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/marinashefer/EGE.git",
-    "accountId": "7b5bbcd2-db04-41c3-a22c-0667fcae283c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marinashefer/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;7b5bbcd2-db04-41c3-a22c-0667fcae283c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -264,7 +262,13 @@
     "Python.task - 25(9754).executor": "Run",
     "Python.task - 25(9792).executor": "Run",
     "Python.task - 25.2(21718).executor": "Run",
+    "Python.task - 26(10107).executor": "Run",
     "Python.task - 26(1207).executor": "Run",
+    "Python.task - 26(12256).executor": "Run",
+    "Python.task - 26(15341).executor": "Run",
+    "Python.task - 26(16390).executor": "Run",
+    "Python.task - 26(17537).executor": "Run",
+    "Python.task - 26(17687).executor": "Run",
     "Python.task - 26(1868).executor": "Run",
     "Python.task - 26(2944).executor": "Run",
     "Python.task - 26(3230).executor": "Run",
@@ -308,16 +312,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/домашние задания/06-06-25"
+    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/домашние задания/07-06-25"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\07-06-25" />
       <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\06-06-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\31-05-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\30-05-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\27-05-25" />
-      <recent name="C:\Users\MShefer\Desktop\EGE\занятия\20-05-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марина\Desktop\EGE\24 тип" />
@@ -655,11 +659,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749155790416</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="16-26">
+      <option name="closed" value="true" />
+      <created>1749205934124</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1749205934124</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="не могу понять как последние две задачи сделать" />
     <MESSAGE value="15 тип вручную" />
     <MESSAGE value="15 тип" />
     <MESSAGE value="15 тип отрезки дз" />
@@ -684,7 +695,8 @@
     <MESSAGE value="26" />
     <MESSAGE value="6-10" />
     <MESSAGE value="11-15" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-15" />
+    <MESSAGE value="16-26" />
+    <option name="LAST_COMMIT_MESSAGE" value="16-26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
