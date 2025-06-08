@@ -244,9 +244,12 @@
     "Python.task - 24(17535).executor": "Run",
     "Python.task - 24(17563).executor": "Run",
     "Python.task - 24(17641).executor": "Run",
+    "Python.task - 24(1866).executor": "Run",
+    "Python.task - 24(1975).executor": "Run",
     "Python.task - 24(2421).executor": "Run",
     "Python.task - 24(3792).executor": "Run",
     "Python.task - 24(4544).executor": "Run",
+    "Python.task - 24(4627).executor": "Run",
     "Python.task - 24(4643).executor": "Run",
     "Python.task - 24(9753).executor": "Run",
     "Python.task - 24(9791).executor": "Run",
@@ -263,6 +266,8 @@
     "Python.task - 26(15341).executor": "Run",
     "Python.task - 26(16390).executor": "Run",
     "Python.task - 26(17537).executor": "Run",
+    "Python.task - 26(17565).executor": "Run",
+    "Python.task - 26(17643).executor": "Run",
     "Python.task - 26(17687).executor": "Run",
     "Python.task - 26(1868).executor": "Run",
     "Python.task - 26(2944).executor": "Run",
@@ -280,6 +285,8 @@
     "Python.task - 26(6759).executor": "Run",
     "Python.task - 26(7602).executor": "Run",
     "Python.task - 26(7626).executor": "Run",
+    "Python.task - 26(9756).executor": "Run",
+    "Python.task - 26.executor": "Run",
     "Python.task - 27(19257).executor": "Run",
     "Python.task - 27(19566).executor": "Run",
     "Python.task - 27(19567).executor": "Run",
@@ -318,16 +325,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MShefer/Desktop/EGE/26 тип/06-06-26"
+    "last_opened_file_path": "C:/Users/Марина/Desktop/EGE/домашние задания/08-06-25"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\Desktop\EGE\домашние задания\08-06-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\06-06-26" />
       <recent name="C:\Users\MShefer\Desktop\EGE\занятия\06-06-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\занятия\05-06-25" />
       <recent name="C:\Users\MShefer\Desktop\EGE\занятия\05-03-25" />
-      <recent name="C:\Users\MShefer\Desktop\EGE\26 тип\31-05-25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Марина\Desktop\EGE\24 тип" />
@@ -699,10 +706,10 @@
     <MESSAGE value="24 тип" />
     <MESSAGE value="26 тип" />
     <MESSAGE value="1-5" />
-    <MESSAGE value="26" />
     <MESSAGE value="6-10" />
     <MESSAGE value="11-15" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-15" />
+    <MESSAGE value="26" />
+    <option name="LAST_COMMIT_MESSAGE" value="26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
