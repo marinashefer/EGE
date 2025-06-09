@@ -39,3 +39,5 @@ for pos, val in enumerate(product(alph, repeat=5), start=1):
     if u >= 3:
 7. Кол-во пар одинаковых символов
     sum([val[i:i+2] == 'AA' for i in range(len(val) - 1)])
+
+

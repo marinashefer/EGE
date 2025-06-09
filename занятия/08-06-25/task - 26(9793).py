@@ -21,3 +21,4 @@ for time, type, num in details:
         last = num
 
 print(last, conveyor.index(last))
+

@@ -200,9 +200,6 @@
 
 
 11. Пик посещаемости (9847)
-    Суть:
-    Идея:
-    Алгоритм:
         with open('26_9847.txt') as f:
             N = int(f.readline())
             arr = [list(map(int, i.split())) for i in f if i]

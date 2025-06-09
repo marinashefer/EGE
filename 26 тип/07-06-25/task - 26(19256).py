@@ -1,4 +1,4 @@
-with open ('26_19256.txt') as file:
+with open ('../08-06-25/26_19256.txt') as file:
     n = int(file.readline())
     students = [list(map(int, i.split())) for i in file]
 
