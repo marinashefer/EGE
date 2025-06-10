@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="11-15">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26 тип/07-06-25/26_19256.txt" beforeDir="false" afterPath="$PROJECT_DIR$/26 тип/08-06-25/26_19256.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26 тип/07-06-25/task - 26(19256).py" beforeDir="false" afterPath="$PROJECT_DIR$/26 тип/07-06-25/task - 26(19256).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26 тип/07-06-25/task - 26.2(19256).py" beforeDir="false" afterPath="$PROJECT_DIR$/26 тип/07-06-25/task - 26.2(19256).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/занятия/08-06-25/task - 26(9793).py" beforeDir="false" afterPath="$PROJECT_DIR$/занятия/08-06-25/task - 26(9793).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-1/task-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/task-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-12/task-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-12/task-12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-15/task-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-15/task-15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-24/task-24.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-26/task-26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-26/task-26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-3/task-3" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-3/task-3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-5/task-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-5/task-5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-6/task-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-6/task-6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task-8/task-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-8/task-8.txt" afterDir="false" />
-    </list>
+    <list default="true" id="2839c304-5ca1-472b-a9ea-db3e4beb8345" name="Changes" comment="1-27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -757,11 +741,18 @@
       <option name="project" value="LOCAL" />
       <updated>1749124721593</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="1-27">
+      <option name="closed" value="true" />
+      <created>1749500475026</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1749500475026</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="не могу понять как последние две задачи сделать" />
     <MESSAGE value="15 тип вручную" />
     <MESSAGE value="15 тип" />
     <MESSAGE value="15 тип отрезки дз" />
@@ -786,7 +777,8 @@
     <MESSAGE value="6-10" />
     <MESSAGE value="11-15" />
     <MESSAGE value="26" />
-    <option name="LAST_COMMIT_MESSAGE" value="26" />
+    <MESSAGE value="1-27" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
